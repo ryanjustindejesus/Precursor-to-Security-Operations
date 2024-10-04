@@ -44,10 +44,4 @@ This tutorial outlines the installation of another windows virtual machine and u
 - <b>Open PowerShell and login to the linux-vm</b>
 - <b>Change directory to /var/log: cd /var/log</b>
 - <b>List the contents of the logs directory: ls</b>
-- <b>Display the contents of the auth.log file</b>
-- <b>Filter the auth.log related to the user ryan: cat auth.log | grep ryan</b>
-
-
-
-
-
+- <b>Display and filter the auth.log related to the user ryan: cat auth.log | grep ryan</b>
