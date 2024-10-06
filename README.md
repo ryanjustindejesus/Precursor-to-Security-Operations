@@ -1,5 +1,6 @@
 <h1>Precursor to Security Operations</h1>
-<b>This tutorial outlines the installation of another Windows virtual machine and using it to generate failed login attempts from both Windows and Linux virtual machines</b>
+
+- <b>This tutorial outlines the installation of another Windows virtual machine and using it to generate failed login attempts from both Windows and Linux virtual machines</b>
 
 <h2>Environments and Technologies Used</h2>
 
